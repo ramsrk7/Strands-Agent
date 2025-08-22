@@ -109,3 +109,7 @@ graph TD;
 ## Configuration
 
 The application requires configuration for API keys and other settings, which are managed in the `config.py` file.
+
+## Integration with AIVoxPlay for AWS Hackathon
+
+This application can be easily integrated with [AIVoxPlay](https://github.com/ramsrk7/AIVoxPlay), which acts as a speech engine. AIVoxPlay provides real-time voice interaction capabilities, allowing the Strands agents to interact with users through voice commands. This integration is ideal for building conversational audio agents for the AWS Hackathon.
